@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 a {
@@ -35,13 +35,13 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #cec7f4; /* White */
+    color: #9B8AB4;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #6d597a;
+    background-color: #2454a4;  /* Blue */
+    color: #45B0D2;
 }
 
 .card {
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    background-color: #36417b; /* Black */
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #041444; /* Dark Gray */
     color: #fff;
 }
 
